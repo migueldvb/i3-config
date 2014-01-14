@@ -145,7 +145,7 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 for_window [class="Tk"] floating enable
-for_window [class="Figure 1"] floating enable
+for_window [title="Figure 1"] floating enable
 for_window [class="feh"] floating enable
 for_window [class="sxiv"] floating enable
 for_window [class="Xloadimage"] floating enable
