@@ -151,7 +151,7 @@ for_window [class="sxiv"] floating enable
 for_window [class="Xloadimage"] floating enable
 for_window [class="rdesktop"] floating enable
 for_window [class="Display"] floating enable
-for_window [class="SAOImage ds9"] floating enable
+for_window [title="SAOImage ds9"] floating enable
 for_window [class="HIPE - Herschel Interactive Processing Environment"] floating enable
 
 assign [class="Firefox"] 4
